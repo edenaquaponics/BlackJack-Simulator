@@ -4,6 +4,22 @@ Created on Sun Aug 14 21:19:54 2022
 
 @author: LENOVO
 """
+
+class Blackjack:
+
+    def __init__(self) -> None:
+        pass
+
+    def player_turn() -> int:
+        pass
+
+    def dealers_turn() -> int:
+        pass
+
+    def start():
+        pass
+
+
 def playing_game():
 
     import random as rd
